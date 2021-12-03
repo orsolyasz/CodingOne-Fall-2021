@@ -23,5 +23,5 @@ https://mimicproject.com/code/6d0a025c-186a-6b04-b0ef-154194a55e10
 
 
 
-!Images of basic GLSL graphics](https://github.com/orsolyasz/CodingOne-Fall-2021/blob/main/Week%2007/Week%207.png)
+![Images of basic GLSL graphics](https://github.com/orsolyasz/CodingOne-Fall-2021/blob/main/Week%2007/Week%207.png)
 

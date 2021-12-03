@@ -10,9 +10,9 @@
 
 ![Collection of dotted 3D shapes more angles](https://github.com/orsolyasz/CodingOne-Fall-2021/blob/main/Week%2005/Week%205%20b.png)
 
-!Images of 3D tree with colorful lights](https://github.com/orsolyasz/CodingOne-Fall-2021/blob/main/Week%2006/Week%206.png)
+![Images of 3D tree with colorful lights](https://github.com/orsolyasz/CodingOne-Fall-2021/blob/main/Week%2006/Week%206.png)
 
-!Images of basic GLSL graphics](https://github.com/orsolyasz/CodingOne-Fall-2021/blob/main/Week%2007/Week%207.png)
+![Images of basic GLSL graphics](https://github.com/orsolyasz/CodingOne-Fall-2021/blob/main/Week%2007/Week%207.png)
 
 ![Images of noise graphics](https://github.com/orsolyasz/CodingOne-Fall-2021/blob/main/Week%2008/Week%208%20a.png)
 
