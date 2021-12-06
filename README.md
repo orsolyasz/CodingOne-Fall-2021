@@ -18,5 +18,6 @@
 
 ![Images of 3D graphics](https://github.com/orsolyasz/CodingOne-Fall-2021/blob/main/Week%2008/Week%208%20b.png)
 
+![3D Scene with a tree on a glass globe over the ocean](https://github.com/orsolyasz/CodingOne-Fall-2021/blob/main/Week%2009-10%20Final%20Project/FinalProject.png)
 
 
